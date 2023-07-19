@@ -1,0 +1,12 @@
+-Location vs total land area
+-Location vs Number of cows
+-Location vs no of farms
+-Product vs quantitty
+-Location vs Total revenue
+-Brand vs Total revenue
+-Most customer location
+-Most Sales channel
+-Countries vs quantity in stock
+-Customer Location vs total revenue
+-Sales channel vs Total revenue
+-product vs total revenue
